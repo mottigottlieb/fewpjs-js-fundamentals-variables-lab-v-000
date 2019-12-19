@@ -1,6 +1,6 @@
 // Code your solution in this file!
 
-const companyName = 'Sc';
+const companyName = 'Scuber';
 
 let companyCeo = 'Susan Smith';
 
